@@ -1,0 +1,71 @@
+AP: TS, KA, TN, OR, CG
+AR: AS, NL, MN, MZ, AP, TR
+AS: AR, ML, MZ, NL, TR, WB
+BR: JH, UP, WB
+CT: MP, OR, JH, MH, TG, UP
+GA: KA, MH
+GJ: MH, MP, RJ
+HR: DL, HP, PB, RJ, UP
+HP: JK, PB, UK, HR
+JH: BH, CT, OR, UP, WB
+KA: AP, GA, KL, MH, TN, TG
+KL: KA, TN
+MP: CT, GJ, MH, RJ, UP
+MH: GJ, KA, MP, TG, CT
+MN: AR, MZ, NL
+ML: AS, BG
+MZ: AS, MN, TR, BG
+NL: AR, AS, MN
+OR: AP, CT, JH, WB
+PB: HP, HR
+RJ: GJ, HR, MP, UP, PB
+SK: BH, WB, NP
+TN: KA, KL, AP
+TG: AP, CT, KA, MH, OR, TN
+TR: AS, MZ, BG
+UP: BR, CT, DL, HR, JH, MP, RJ, UK
+UK: HP, HR, UP
+WB: BH, JH, OR, SK, AP, BH, CT, JH, OR
+AN: None
+CH: HR, PB
+DD: GJ, MH
+LD: KL
+DL: HR, UP
+PY: TN
+
+
+/*Code Reference*/
+AP: Andhra Pradesh
+AR: Arunachal Pradesh
+AS: Assam
+BR: Bihar
+CT: Chhattisgarh
+GA: Goa
+GJ: Gujarat
+HR: Haryana
+HP: Himachal Pradesh
+JH: Jharkhand
+KA: Karnataka
+KL: Kerala
+MP: Madhya Pradesh
+MH: Maharashtra
+MN: Manipur
+ML: Meghalaya
+MZ: Mizoram
+NL: Nagaland
+OR: Odisha
+PB: Punjab
+RJ: Rajasthan
+SK: Sikkim
+TN: Tamil Nadu
+TG: Telangana
+TR: Tripura
+UP: Uttar Pradesh
+UK: Uttarakhand
+WB: West Bengal
+AN: Andaman and Nicobar Islands
+CH: Chandigarh
+DD: Dadra and Nagar Haveli and Daman and Diu
+LD: Lakshadweep
+DL: Delhi
+PY: Puducherry

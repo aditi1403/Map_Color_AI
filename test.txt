@@ -1,0 +1,11 @@
+WA - NT SA
+NT - WA SA QU
+SA - WA NT QU NS VI
+QU - NT SA NS
+NS - QU SA VI
+VI - SA NS
+TA - 
+
+TA, VI, SA, NS, QU, NT, WA
+[],[SA, NS],[VI, NS, WA, NT, QU],[VI, SA, QU],[NS, NT, SA],[WA, SA, QU],[NT, SA]
+[RED, GREEN, YELLOW]
